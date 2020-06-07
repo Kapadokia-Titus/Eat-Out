@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eat Out</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="register_text">Dont have an account? Click here to register</string>
+    <string name="login_text">Already have an account? Login</string>
+    <string name="slogan">We are the best food app, we have the best customer experience and after sales service</string>
+</resources>

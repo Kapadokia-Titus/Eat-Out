@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207493110083",
+    "firebase_url": "https://foodyfy-96306.firebaseio.com",
+    "project_id": "foodyfy-96306",
+    "storage_bucket": "foodyfy-96306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207493110083:android:7821aa32bcc96cc42137f6",
+        "android_client_info": {
+          "package_name": "kapadokia.nyandoro.eatout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207493110083-lvnr3ldg2n7g2nvjsqf8tu1qac4ncuq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kapadokia.nyandoro.eatout",
+            "certificate_hash": "fd5a5a1258ce0af7bc26f9c7db258d33174663de"
+          }
+        },
+        {
+          "client_id": "207493110083-o66ccsu15kjgu8hpfrrm9rt2t1pi6kl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO0Pi4zaP3yiUpDSnH39p9JI7SpbAnc2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207493110083-o66ccsu15kjgu8hpfrrm9rt2t1pi6kl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
